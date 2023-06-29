@@ -1,0 +1,47 @@
+---
+layout: "@layouts/ArticleLayout.astro"
+title: Denise is a siamese
+date: 10 July 2022
+description: 
+image: https://example.com/path/to/your/image.jpg
+---
+
+One quick and easy recipe that university students can make in under one hour is "One-Pot Creamy Chicken Alfredo Pasta."
+
+Ingredients:
+
+8 ounces fettuccine or any pasta of your choice
+1 tablespoon olive oil
+1 small onion, finely chopped
+2 cloves garlic, minced
+2 boneless, skinless chicken breasts, cut into small pieces
+Salt and black pepper to taste
+2 cups chicken broth
+1 cup heavy cream or half-and-half
+1 cup grated Parmesan cheese
+1 cup frozen peas (optional)
+Fresh parsley, chopped for garnish (optional)
+Instructions:
+
+In a large pot, bring salted water to a boil and cook the pasta according to package instructions. Once cooked, drain and set aside.
+
+In the same pot, heat olive oil over medium heat. Add the chopped onion and minced garlic, sautéing until they become soft and fragrant.
+
+Season the chicken breast pieces with salt and black pepper, then add them to the pot. Cook until the chicken is no longer pink in the center.
+
+Pour in the chicken broth and bring it to a simmer. Add the cooked pasta back into the pot.
+
+Stir in the heavy cream and grated Parmesan cheese, ensuring everything is well combined. Cook for a few minutes until the sauce thickens slightly.
+
+If desired, add frozen peas to the pot and cook for an additional 2-3 minutes until heated through.
+
+Remove from heat and let the pasta rest for a few minutes to allow the sauce to further thicken.
+
+Garnish with fresh parsley, if desired, and serve hot.
+
+This one-pot creamy chicken Alfredo pasta is a satisfying and flavorful dish that can be prepared in under an hour. It requires minimal ingredients and provides a delicious and comforting meal for busy university students. Enjoy!
+
+<div
+	     class="flex-grow flex justify-center fixed top-0 left-0 z=0"
+		 style="z-index:-1"
+	>
