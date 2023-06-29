@@ -1,0 +1,8 @@
+<html>
+<head>
+  <title>Image Example</title>
+</head>
+<body>
+  <img src="https://example.com/path/to/your/image.jpg" alt="Image description">
+</body>
+</html>

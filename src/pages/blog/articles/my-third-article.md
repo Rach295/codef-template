@@ -1,15 +1,27 @@
 ---
 layout: "@layouts/ArticleLayout.astro"
-title: My Third Article
-date: 17 July 2022
-image: /images/my-third-article/cardimage.jpg
+title: The Cooking Conundrum-Unveiling Why University Students Don't Cook 
+date: 17 July 2023
+image: takeaway-foor-aerial700x400.jpeg
 ---
 
-![Icon](https://i.ytimg.com/vi/7Tt6Yv9czz8/maxresdefault.jpg)
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque illo incidunt odit ex mollitia eligendi at eaque consequatur, sequi in repellat fuga qui itaque natus. Ducimus laboriosam, nihil nobis eum rerum facilis, quidem consequatur eligendi provident id in. Quae architecto rem repellendus nam, autem ullam facilis dolores veniam, impedit itaque similique deserunt dolorum eveniet nemo, dolore blanditiis assumenda laborum corporis ut! Fugiat earum molestias voluptatum! Quae recusandae qui inventore sapiente quod dolorum aspernatur ratione eveniet, similique modi dignissimos nihil ut.
 
-Aliquam, fugiat! Nisi saepe maiores neque minima, voluptatibus maxime, architecto debitis molestiae voluptatum eaque a tempore voluptates. Laboriosam, odit dolor. Explicabo facere exercitationem saepe nobis temporibus iure, repellendus atque rem quisquam hic reiciendis aliquid architecto, inventore repudiandae. Incidunt vero, rem obcaecati quam nesciunt distinctio minus voluptas perferendis alias error unde, repellat amet, pariatur nobis voluptatum iste quo. Debitis, ducimus! In nostrum, rerum quam explicabo quaerat cupiditate eos, distinctio officia tempora cumque, fuga consequuntur quas perferendis voluptates sit quos. Quod, tenetur.
+Roughly one in four graduates admitted that even after leaving university, they still haven’t learned to cook.
 
-Repellendus alias accusamus reprehenderit quam, qui, quae dolorem nihil, repellat necessitatibus fugit assumenda. Iste, repellendus obcaecati aliquam molestias perspiciatis eligendi unde nisi eius, reiciendis est assumenda cupiditate similique totam consequuntur excepturi! Optio iste obcaecati accusantium autem neque voluptatibus illo adipisci hic, blanditiis facere ipsum alias molestiae pariatur modi mollitia deserunt sunt. Officia natus corporis incidunt quasi odit, fugiat odio exercitationem explicabo, dicta excepturi earum vitae deserunt est obcaecati expedita libero esse mollitia ipsam nobis inventore quis quae. Rerum, non iusto.
+While 47 per cent of grads said their culinary skills had improved during their student days, 28 per cent were still shovelling frozen pizzas into the oven and ordering takeaways by the end of their degrees.
 
-Sequi, sit. Aliquid, cumque adipisci? Provident nobis saepe quia voluptatibus consequuntur itaque deserunt fuga tempore expedita hic ipsum amet sequi, placeat soluta natus, pariatur explicabo, eligendi commodi? Recusandae reprehenderit quidem maiores explicabo exercitationem porro accusantium ipsum laudantium sapiente, repellendus omnis minima pariatur tempora iure non excepturi odit distinctio, totam eos, ut alias dolores hic esse nesciunt. Quia libero neque iure vel! Molestiae suscipit cupiditate illum a, sit labore corrupti non tenetur officiis voluptatum nulla, deleniti nam iure quo sed vel?
+The findings come as part of a survey by SEGA and Two Point Studios in which over 2,000 graduates from across the UK were quizzed on their dietary habits.
+
+Two thirds of grads said they prioritised saving money on food shops over the nutritional value of the food they were buying.
+
+In fact, over half of all the survey respondents said that their budget was the single biggest factor when thinking about what to eat at uni.
+
+A quarter of students said they relied on frozen food while another quarter said they opted microwave meals.
+
+The ongoing cost of living crisis means that student are increasingly finding it difficult to find the cash to spend on food.
+
+According to the NUS, 11 per cent of students are using foodbanks– this figure has more than doubled since January.
+
+A spokesperson for the NUS said that students were now on the “brink” and demanded the government table “a tailored cost of living support package for students as a matter of urgency.”
+
+
